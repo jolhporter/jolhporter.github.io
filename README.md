@@ -15,11 +15,11 @@ However you might have to be patient! This may take about ~20-30 minutes to upda
 
 ### Step 2. Clone your copy of the repo into the directory of your choice on your local machine.
 
-To do this, first copy the address for the repo by going to the GitHub repo and clicking the green "Code" button, clicking the SSH option, and then copying the address. The address should look something like git@github.com:YOUR\_GITHUB\_USERNAME/\YOUR\_GITHUB\_USERNAME.github.io.git
+To do this, first copy the address for the repo by going to the GitHub repo and clicking the green "Code" button, clicking the SSH option, and then copying the address. The address should look something like git@github.com:YOUR\_GITHUB\_USERNAME/\YOUR_GITHUB_USERNAME.github.io.git
 
 Then on your local machine, on your terminal, cd into the directory that you want this repo to be located on. After that, run this command:
 
-	$ git clone git@github.com:YOUR\_GITHUB\_USERNAME/\YOUR\_GITHUB\_USERNAME.github.io.git
+	$ git clone git@github.com:YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io.git
 
 ### Step 3. Open up the website on your local machine in your web browser to check that it works correctly.
 
@@ -54,7 +54,7 @@ Now, if you like these changes, you should make sure this is saved on your onlin
 	git commit -m "Updated hero section to display my own name"
 	git push
 
-*At this point the GitHub servers should be properly updated. So you should be able to view this page on the Internet at https://YOUR\_GITHUB\_USERNAME.github.io too!*
+*At this point the GitHub servers should be properly updated. So you should be able to view this page on the Internet at https://YOUR_GITHUB_USERNAME.github.io too!*
 
 ### Step 5. Make atleast 5 more changes!
 
@@ -71,4 +71,4 @@ Make sure that you are pushing these changes to your repo anytime you make a sig
 
 ### Step 6. Submit your final website to the course staff email.
 
-Email the link to your website (https://YOUR\_GITHUB\_USERNAME.github.io) and a list of the changes you made to the course staff email.
+Email the link to your website (https://YOUR_GITHUB_USERNAME.github.io) and a list of the changes you made to the course staff email.
