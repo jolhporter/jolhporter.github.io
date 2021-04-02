@@ -38,9 +38,13 @@ Change the name from "Alex Smith" to your own name!
 Do this by opening index.html in your favorite text editor (e.g. nano, Sublime Text, Atom, Visual Studio Code, etc.) and navigating to the "Hero Section" (this should be around line 75 in the file).
 
 On the line that says:
-	<h1>Alex Smith</h1>
+```
+<h1>Alex Smith</h1>
+```
 Change it to say:
-	<h1>YOUR NAME</h1>
+```
+<h1>YOUR NAME</h1>
+```
 
 After this, save the file, and check out what your website looks like in your web browser (same as Step 3)! If you already have the file open in your web browser, you can just refresh the page to see the changes.
 
