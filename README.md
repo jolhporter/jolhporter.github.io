@@ -9,13 +9,13 @@
 
 Make sure to rename the repo to be YOUR\_GITHUB\_USERNAME.github.io
 
-### Step 2. Clone your copy of the repo onto your local machine into the directory of your choice. 
+### Step 2. Clone your copy of the repo into the directory of your choice on your local machine.
 
 To do this, first copy the address for the repo by going to the GitHub repo and clicking the green "Code" button, clicking the SSH option, and then copying the address. The address should look something like git@github.com:YOUR\_GITHUB\_USERNAME/\YOUR\_GITHUB\_USERNAME.github.io.git
 
-Then on your local machine, on your terminal, cd into the directory that you want this repo to be located on. After that, run this command.
+Then on your local machine, on your terminal, cd into the directory that you want this repo to be located on. After that, run this command:
 
-		$ git clone git@github.com:YOUR\_GITHUB\_USERNAME/\YOUR\_GITHUB\_USERNAME.github.io.git
+	$ git clone git@github.com:YOUR\_GITHUB\_USERNAME/\YOUR\_GITHUB\_USERNAME.github.io.git
 
-### Step 3.
+### Step 3. 
 
