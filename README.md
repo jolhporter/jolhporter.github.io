@@ -9,7 +9,7 @@
 
 Make sure to rename the repo to be YOUR\_GITHUB\_USERNAME.github.io
 
-At this point, you should be able to view a copy of this website on the Internet at https://YOUR\_GITHUB\_USERNAME.github.io
+At this point, you should be able to view a copy of this website on the Internet at https://YOUR_GITHUB_USERNAME.github.io
 
 However you might have to be patient! This may take about ~20-30 minutes to update on the GitHub servers. Until then, you can continue to the following steps.
 
