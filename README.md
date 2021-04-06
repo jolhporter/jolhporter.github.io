@@ -2,7 +2,7 @@
 
 ### Step 0. These instructions assume that you have already correctly set up git on your local machine and you have set up your SSH keys (so that you can connect to your GitHUB repo via SSH). Detailed instructions are located [here](https://docs.google.com/presentation/d/1WQ7kg2BZcT4q2eRUagD16HmQYM4X0hoAlxx7SyDAmvE/edit#slide=id.gcc333d0bf4_0_6).
 
-***DO NOT PROCEED UNLESS YOU HAVE DONE STEP 0***
+# DO NOT PROCEED UNLESS YOU HAVE DONE STEP 0
 
 ### Step 1. Fork this repo by clicking the fork button on the top right of this screen.
 
