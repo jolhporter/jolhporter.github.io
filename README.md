@@ -1,10 +1,8 @@
 ## Instructions for Digital Stewards Assignment:
 
-### Step 0. These instructions assume that you have already correctly set up git on your local machine and you have set up your SSH keys (so that you can connect to your GitHUB repo via SSH).
+### Step 0. These instructions assume that you have already correctly set up git on your local machine and you have set up your SSH keys (so that you can connect to your GitHUB repo via SSH). Detailed instructions are located [here](https://docs.google.com/presentation/d/1WQ7kg2BZcT4q2eRUagD16HmQYM4X0hoAlxx7SyDAmvE/edit#slide=id.gcc333d0bf4_0_6).
 
 ***DO NOT PROCEED UNLESS YOU HAVE DONE STEP 0***
-
-***IF YOU NEED HELP SETTING UP, CHECK LECTURE SLIDES, ASK AN INSTRUCTOR, OR GO TO OFFICE HOURS***
 
 ### Step 1. Fork this repo by clicking the fork button on the top right of this screen.
 
@@ -57,7 +55,7 @@ Now, if you like these changes, you should make sure this is saved on your onlin
 
 *At this point the GitHub servers should be properly updated. So you should be able to view this page on the Internet at https://YOUR_GITHUB_USERNAME.github.io too!*
 
-### Step 5. Make atleast 5 more changes!
+### Step 5. Make at least 5 more changes!
 
 For this homework assignment, your job is to make atleast 5 changes to the website. Here are some suggestions:
 
